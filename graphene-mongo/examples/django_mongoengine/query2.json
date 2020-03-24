@@ -1,0 +1,15 @@
+{
+               bikes(first: 1){
+                   edges {
+                   node {
+                       name
+                       brand
+                       year
+                       size
+                       wheelSize
+                       type
+                       }
+                   }
+               }
+}
+

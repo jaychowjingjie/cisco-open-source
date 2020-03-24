@@ -1,0 +1,35 @@
+{
+  allEmployees {
+    edges {
+      node {
+        id
+        name
+        department {
+          id
+          name
+        }
+        roles {
+          edges {
+            node {
+              id
+              name
+            }
+          }
+        }
+        leader {
+          id
+          name
+        }
+        tasks {
+          edges {
+            node {
+              name
+              deadline
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
