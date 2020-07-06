@@ -1,4 +1,4 @@
-Code and decks to share with the open source community.
+Representing Cisco as a software engineer in Cisco Operations to share code snippets and decks with the open source community.
 
 For any questions, feel free to send me an email at jaychow@cisco.com
 
